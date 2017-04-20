@@ -3,11 +3,11 @@ NPM package for object encryption and decryption
 
 # Usage
 To get the this package. Run the following command:
-<pre>npm install object-encryption-decryption --save</pre>
+<pre>npm install object-encrypt-decrypt --save</pre>
 
 after installing package you need to add this to your node main file (e.g. index.js or server.js) by adding following command:
 
-<pre>var objEncDec = require('object-encryption-decryption')</pre>
+<pre>var objEncDec = require('object-encrypt-decrypt')</pre>
 
 # Encrypt
 to encrypt object: 
